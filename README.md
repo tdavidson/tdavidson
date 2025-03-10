@@ -12,4 +12,4 @@ Taylor was born in Virginia, lived in the Bahamas and England when he was young,
 
 > Full career details are at [Resume](/resume/), and his short bio and headshot can be downloaded at [Press](/press/)
 
-The best way to contact me is at hello [at] taylordavidson.com, or, if urgent, text +1 646 770 0052.
+The best way to contact me is at hello [at] taylordavidson.com.
