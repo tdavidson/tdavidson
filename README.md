@@ -1,16 +1,19 @@
-## Hi there 👋
+Taylor Davidson helps entrepreneurs and investors create and use financial models for business decisions through his template financial models and strategic advisory services at [Foresight](https://foresight.is). His tools have been downloaded over 81,000 times from over 116 countries by entrepreneurs (helping with financial planning, projections, fundraising, valuations, and business strategy) and investors (assisting with investment strategy, portfolio tracking, capital planning, and metric reporting). He is currently the Chief Financial Officer (fractional) for [Laconia Capital Group](https://laconiacapitalgroup.com), a venture capital firm that invests in early-stage B2B softwarestartups. He runs classes for investors, founders, lawyers, and executives on [modeling cap tables and waterfalls for venture investments](https://foresight.is/cap-table-masterclass) and [modeling venture funds](https://foresight.is/how-model-venture/). He has lectured and taught [workshops](https://foresight.is/workshops/) at Carnegie Mellon University, Columbia University, General Assembly, Founder Institute, VC Lab, Entrepreneur First, GoingVC, and numerous startup and venture accelerators in the USA and abroad on the topics of financial modeling, revenue forecasting, unit economics, venture fund modeling, and [capitalization tables](https://foresight.is/cap-table-masterclass). 
 
-<!--
-**tdavidson/tdavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He has [invested](/invest/) and advised a number of early-stage startups throughout his career as a venture capitalist, consultant, advisor, and mentor, working with consumer and enterprise businesses in digital media, advertising technology, imagery, mobile, and communications. Taylor was formerly the Director of kbs+ Ventures, an NYC-based early-stage venture investment arm of the advertising agency kbs. In addition, he co-created and ran an internal educational program called [kbs+ Ventures Fellows](http://adage.com/article/agency-news/retain-talent-teach-leave-kbs/241121/), which taught kbs+ employees about venture capital and entrepreneurship. He co-curated the book *[Creative Entrepreneurship](https://www.forbes.com/sites/alextaub/2013/05/23/new-to-the-whole-startup-thing-you-must-read-this-book/)* to share this educational goal with anyone in the world.
 
-Here are some ideas to get you started:
+He was formerly an Investor-in-Residence at [Venture for America](http://ventureforamerica.org) (VFA), a nonprofit organization that places recent college grads with startups in emerging cities, helping build businesses, create jobs, and make an impact. He assisted in running VFA's first accelerator for Fellow-founded startups and helped Fellows navigate the process of building an idea into a funded company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He was also a professional photographer, focusing on [outdoor and adventure](/explore), [social impact](/social-impact), and [business and event](/events) photography. Clients included Clinton Global Initiative, The Economist, CNN, The Rockefeller Foundation, and many others. Taylor has been noted in the past as one of the top travel photographers on the web, and has given talks and spoken on panels about photography for PDN, CEPIC, SXSW, VII, Photo Hack Day, and more. He created the [Photography Industry Landscape](/photo-industry) as a foundational map of the imagery industry to use for strategic analysis and planning, and was active with many photography-related startups.
+
+Whether about venture capital, entrepreneurship, or photography, Taylor has been featured or quoted in *[Fast Company](http://www.fastcolabs.com/3025473/how-facebooks-mobile-ad-network-could-finally-upend-a-backwards-industry), [Techcrunch](https://techcrunch.com/2021/04/27/internal-rates-of-return-in-emerging-us-tech-hubs-are-starting-to-overtake-silicon-valley), [Angellist](https://www.angellist.com/blog/rolling-fund-budget), [Mosaic](https://www.mosaic.tech/the-role-forward/taylor-davidson), [Time](http://time.com/4003527/future-of-photography/), [Fortune](http://fortune.com/2014/06/11/when-what-you-see-isnt-what-you-get/), [AdAge](http://adage.com/article/agency-news/retain-talent-teach-leave-kbs/241121/), [MIT Technology Review](http://www.technologyreview.com/news/528291/a-search-engine-for-the-era-of-apps/), [Crain's](http://www.crainsnewyork.com/article/20140226/TECHNOLOGY/140229904/whatsapp-deal-exposes-nys-soft-underbelly), [Forbes](http://www.forbes.com/sites/alextaub/2013/05/23/new-to-the-whole-startup-thing-you-must-read-this-book/), [Wired](http://www.wired.it/economia/start-up/2014/03/07/davison-finanziamenti/), [Nieman Lab](http://www.niemanlab.org/2015/03/the-next-stage-in-the-battle-for-our-attention-our-wrists/), [The Next Web](http://thenextweb.com/insider/2013/05/14/taylor-davidson-maps-the-photography-landscape/), [MediaPost](http://www.mediapost.com/publications/article/208273/kbs-simplifies-internet-marketing-drops-an-r-a.html), [Canvas8](http://www.canvas8.com/static-assets/media/docs/expert-outlook.pdf),* and more. Find [all press here](/press). That said, the two most popular things he has ever written on the web are about [how to fail in business](/2008/how-to-fail-25-secrets-learned-through-failure) and [how to pack for a nomadic life](/2009/how-to-pack-for-a-nomadic-life-and-the-79-things-i-packed).
+
+Taylor was born in Virginia, lived in the Bahamas and England when he was young, and graduated from the University of Virginia with a BA in Economics and the Tepper School of Business at Carnegie Mellon University with an MBA in Finance. He has previously lived in New York, NY, New Orleans, LA, London, UK, Chicago, IL and other places, and he currently lives in Pittsburgh, PA.
+
+> Full career details are at [Resume](/resume/), and his short bio and headshot can be downloaded at [Press](/press/)
+
+## Contact
+
+https://twitter.com/tdavidson/status/50939820071071745?ref_src=twsrc%5Etfw
+
+The best way to contact me is at hello [at] taylordavidson.com, or, if urgent, text +1 646 770 0052.
