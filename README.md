@@ -2,7 +2,7 @@ Taylor Davidson helps entrepreneurs and investors create and use financial model
 
 He is currently the **Chief Financial Officer** (fractional) for [Laconia Capital Group](https://laconiacapitalgroup.com), a venture capital firm that invests in early-stage B2B software startups. Taylor has [invested](https://taylordavidson.com/invest/) in and advised early-stage startups as an angel investor, venture capitalist, consultant, and mentor, and he was formerly the Director of kbs+ Ventures, an NYC-based early-stage venture investment arm of the advertising agency kbs.
 
-He was previously a **professional photographer**, focusing on [outdoor and adventure](https://taylordavidson.com/explore), and [business and event](https://taylordavidson.com/events) photography. Clients included Clinton Global Initiative, The Economist, CNN, The Rockefeller Foundation, and many others, and he gave talks and spoke on panels about photography for PDN, CEPIC, SXSW, VII, and more.
+He was previously a **professional photographer**, focusing on [outdoor](https://taylordavidson.com/explore) and [business event](https://taylordavidson.com/events) photography. Clients included Clinton Global Initiative, The Economist, CNN, The Rockefeller Foundation, and many others, and he gave talks and spoke on panels about photography for PDN, CEPIC, SXSW, VII, and more.
 
 Taylor was born in Virginia, lived in the Bahamas and England when he was young, and graduated from the University of Virginia with a BA in Economics and the Tepper School of Business at Carnegie Mellon University with an MBA in Finance. He has previously lived in New York, NY, New Orleans, LA, London, UK, Chicago, IL and other places, and he currently lives in Pittsburgh, PA.
 
